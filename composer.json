@@ -1,0 +1,16 @@
+{
+  "name": "joyousphper/composer-demo",
+  "description": "composer demo",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "joyousphper",
+      "email": "joyousphper@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">=5.4.0"
+  }
+}
